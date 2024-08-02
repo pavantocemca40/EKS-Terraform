@@ -1,3 +1,3 @@
 # EKS-with-jenkins
 
-Deploy EKS cluster using Jenkins with Terraform as IAC
+End to End implementation of DevOps project using tools like Jenkins, Docker, Terraform
